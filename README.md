@@ -22,7 +22,7 @@
 - Acknowledgements
 🌟 Overview
 
-<img width="454" height="675" alt="image" src="https://github.com/user-attachments/assets/43b7ea17-91da-4070-9791-5853e21cce05" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8da643c0-fa49-4f64-9a83-1e6a570c0443" />
  
 This project analyzes crime data across various Indian states over multiple years to uncover trends, patterns, and key insights. The goal is to identify high-crime regions, evaluate the effectiveness of crime prevention efforts, and predict future crime rates using statistical and machine learning models.
  
