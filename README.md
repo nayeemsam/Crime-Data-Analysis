@@ -2,7 +2,6 @@
  
 ![Python](https://img.shields.io/badge/PYTHON-3.8+-306998?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/PANDAS-DATA%20ANALYSIS-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/SCIKIT--LEARN-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Dataset](https://img.shields.io/badge/DATASET-GOVT%20SOURCES-808080?style=for-the-badge) ![License](https://img.shields.io/badge/LICENSE-MIT-lightgrey?style=for-the-badge)
 
-<img width="454" height="675" alt="image" src="https://github.com/user-attachments/assets/43b7ea17-91da-4070-9791-5853e21cce05" />
 
  
 > An in-depth statistical and machine learning analysis of crime data across Indian states — uncovering regional patterns, testing significance across years, and forecasting future crime trends to support public safety planning.
@@ -22,6 +21,8 @@
 - Future Work
 - Acknowledgements
 🌟 Overview
+
+<img width="454" height="675" alt="image" src="https://github.com/user-attachments/assets/43b7ea17-91da-4070-9791-5853e21cce05" />
  
 This project analyzes crime data across various Indian states over multiple years to uncover trends, patterns, and key insights. The goal is to identify high-crime regions, evaluate the effectiveness of crime prevention efforts, and predict future crime rates using statistical and machine learning models.
  
